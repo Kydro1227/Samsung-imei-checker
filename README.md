@@ -1,4 +1,4 @@
-# Samsung-Imei
+# Samsung-imei-checker
 https://www.samsung.com/uk/boost/discord/ you can list the appropriate imei for the site
 
 
